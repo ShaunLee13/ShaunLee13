@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ... I am a content streamer.
 
-Contact me on [LinkedIn](https://www.linkedin.com/in/codingshaunlee/) or by [email](mailto:shaundlee.0103@gmail.com)
+Contact me on [LinkedIn](https://www.linkedin.com/in/codingshaunlee/) or by email at [shaundlee.0103@gmail.com](mailto:shaundlee.0103@gmail.com)
